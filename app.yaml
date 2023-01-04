@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/matriix00/argocd.git
+    repoURL: https://github.com/matriix00/agrocd.git
     targetRevision: HEAD
     path: dev 
   destination:
